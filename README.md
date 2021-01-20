@@ -1,3 +1,4 @@
 # Projeto-Donkey-Kong
-Projeto original era recriar o famoso jogo do dinossauro sem internet, mas fiz modificações e transformei no jogo do Donkey Kong
-HTML,CSS.
+Projeto original era recriar o famoso jogo do dinossauro sem internet, mas fiz modificações e transformei no jogo do Donkey Kong.
+
+Feito em HTML, CSS e JavaScript.
