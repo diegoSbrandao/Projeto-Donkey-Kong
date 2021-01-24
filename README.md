@@ -39,7 +39,7 @@ Projeto feito durante o Bootcamps "HTML Web Developer" da Digital Innovation One
 
 
 ##  ✔Atualização:
-...
+24/01 - Atualizando o readme.
 
 
 
