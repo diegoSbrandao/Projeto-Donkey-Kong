@@ -34,7 +34,7 @@ Projeto feito durante o Bootcamps "HTML Web Developer" da Digital Innovation One
 
 <p> Caso deseje ver as mudanças, assista o vídeo abaixo.</p>
 
-<a href="https://www.youtube.com/watch?v=4nrLEHufU1Y" target="_blank">Clique aqui</a>
+<a href="https://youtu.be/WdNbjzON_es" target="_blank">Clique aqui</a>
 
 
 
