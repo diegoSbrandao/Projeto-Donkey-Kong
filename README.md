@@ -29,7 +29,7 @@ Projeto feito durante o Bootcamps "HTML Web Developer" da Digital Innovation One
 
 ##  💻Visualização:
 
-<img src="imgmain.jpg">
+<img src="/Projeto-Donkey%20kong/imgmain.jpg">
 
 
 <p> Caso deseje ver o jogo em ação, assista o vídeo abaixo.</p>
